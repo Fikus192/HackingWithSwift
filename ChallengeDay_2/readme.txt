@@ -1,1 +1,1 @@
-Second challenge: "Rock <> Paper <> Scissors
+Second challenge: "Rock <> Paper <> Scissors"
